@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "air-conditioner",
+    "price": "499",
+    "imgUrl": "./images/air-conditioner.jpg"
+  },
+  {
+    "id": 2,
+    "name": "glass",
+    "price": "39",
+    "imgUrl": "./images/glass.jpg"
+  },
+  {
+    "id": 3,
+    "name": "iphone",
+    "price": "1099",
+    "imgUrl": "./images/iphone.jpg"
+  },
+  {
+    "id": 4,
+    "name": "macbook",
+    "price": "1599",
+    "imgUrl": "./images/macbook.jpg"
+  },
+  {
+    "id": 5,
+    "name": "tv",
+    "price": "399",
+    "imgUrl": "./images/tv.jpg"
+  },
+  {
+    "id": 6,
+    "name": "watch",
+    "price": "89",
+    "imgUrl": "./images/watch.jpg"
+  }
+]
